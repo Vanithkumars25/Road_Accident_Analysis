@@ -2,10 +2,10 @@
 
 ## **Tools Used**
 
-* Power BI
+* Excel
 * Power Query
-* Dax Query
-* Data modeling
+* Data Modelling
+* Pivot Table
 
 
 ## Summary
@@ -19,4 +19,4 @@
 
 ## **Dashboard**
 
-  [Download The File](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/blob/main/HR_DASHBOARD_PowerBI%20Project.pbix) and Open In Power BI Desktop for Interactive Viewing.
+  [Download The File](https://github.com/Vanithkumars25/Road_Accident_Analysis/blob/main/Road_Accident_Analysis.xlsx) and Open In Power BI Desktop for Interactive Viewing.
